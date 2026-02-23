@@ -59,7 +59,7 @@ nav a:hover {
 
 .hero {
     text-align: center;
-    padding: 60px 20px;
+    padding: 60px 200px;
     background: #ffe5e5;
 }
 
@@ -80,6 +80,7 @@ nav a:hover {
     text-decoration: none;
     border-radius: 8px;
     font-weight: bold;
+    text-align: center;
 }
 
 .cta-button:hover {
